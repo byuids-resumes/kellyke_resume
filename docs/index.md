@@ -8,7 +8,7 @@ kek17411@gmail.com • https://www.linkedin.com/in/karissa-e-kelly • 253.720.1
  
 EDUCATION
 Bachelor of Science in Business Analytics with Cluster in Accounting
- Brigham Young University - Idaho Estimated Graduation Apr. 2023
+ Brigham Young University - Idaho
 •	Vice President of the Women in Business Society | September 2021 – December 2021
 •	Secretary of the BYU-Idaho’s Women in Business Society | April 2021 – July 20221
 •	Member of the BYU-Idaho’s Wealth Management Society 
@@ -17,6 +17,7 @@ Bachelor of Science in Business Analytics with Cluster in Accounting
 
 
 Rexburg, ID
+Est. Graduation Apr. 2023
  
 
 EXPERIENCE
