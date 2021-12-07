@@ -27,20 +27,39 @@ Rexburg, ID Est. Graduation Apr. 2023
 -	Relevant course work: Business Statistics, Data Science Programming, Financial Accounting, Econ Principles and Problems Macro/Micro, Managerial Accounting, Readings in Hispanic Literature 202, and Spreadsheet Analysis for Business 
 
 ## EXPERIENCE
-Office Admin                                                                                                                                                                  February 2018 - Present
-911 Driving School of Graham and Puyallup                                                                                                                                Puyallup, WA
+###### Office Admin
+911 Driving School of Graham and Puyallup
+<p align="right"> February 2018 - Present </p>
+<p align="right"> Puyallup, WA </p>
 -	Called students to collect overdue payments of $50 or more
 -	Enrolled teenagers 15 and older into Driver's Education program
 -	Scheduled and cancelled drives for students and instructors 24 hours or before
 -	Developed and implemented a process on obtaining a student’s signed “Policies & Procedures”
 -	Established a welcoming office environment by cleaning bathrooms and classrooms in a one-day period
-Full-Time Volunteer Representative                                                                                                                           October 2012 - Present
-The Church of Jesus Christ of Latter-day Saints                                                                                                                            Puyallup, WA
+
+
+###### Full-Time Volunteer Representative
+The Church of Jesus Christ of Latter-day Saints
+
+<p align= "right"> October 2012 - Present
+<p align= "right">
+Puyallup, WA
+</p>
 -	Contributed 100 and more hygiene packs for other countries in an afternoon
 -	Organized 30 and more youth into various groups for service activities
 -	Produced 20 food packages for regional food bank with other young women
-Heber J. Grant Mentor                                                                                                                                         September 2020 – April 2021
-Brigham Young University - Idaho	Rexburg, ID
+
+
+
+
+###### Heber J. Grant Mentor
+Brigham Young University - Idaho
+<p align= "right">
+September 2020 – April 2021
+<p align= "right">
+Rexburg, ID
+</p>
+
 -	Undertook 2 - 3 college freshman to be mentored in first year of college
 -	Advised freshmen in improving either Physical, Mental, Emotional, Social, and Spiritual health
 -	Specified goals outlined with freshmen to maintain during a three-month period
