@@ -16,7 +16,9 @@ Bachelor of Science in Business Analytics with Cluster in Accounting
 _Brigham Young University - Idaho_
 
 <p align="right">
-Rexburg, ID Est. Graduation Apr. 2023
+Rexburg, ID
+<p align= "right">
+Est. Graduation Apr. 2023
 </p>
 
 
