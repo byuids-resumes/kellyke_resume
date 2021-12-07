@@ -33,12 +33,15 @@ Office Admin
 911 Driving School of Graham and Puyallup
 <p align="right"> February 2018 - Present </p>
 <p align="right"> Puyallup, WA </p>
+
 -	Called students to collect overdue payments of $50 or more
 
 -	Enrolled teenagers 15 and older into Driver's Education program
 
 -	Scheduled and cancelled drives for students and instructors 24 hours or before
+
 -	Developed and implemented a process on obtaining a student’s signed “Policies & Procedures”
+
 -	Established a welcoming office environment by cleaning bathrooms and classrooms in a one-day period
 
 
@@ -49,7 +52,9 @@ The Church of Jesus Christ of Latter-day Saints
 <p align= "right">
 Puyallup, WA
 </p>
+
 -	Contributed 100 and more hygiene packs for other countries in an afternoon
+
 -	Organized 30 and more youth into various groups for service activities
 -	Produced 20 food packages for regional food bank with other young women
 
