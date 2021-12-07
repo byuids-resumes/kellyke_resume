@@ -6,7 +6,7 @@ Karissa E. Kelly
 kek17411@gmail.com • https://www.linkedin.com/in/karissa-e-kelly • 253.720.1267
 
  
-EDUCATION
+## EDUCATION
 Bachelor of Science in Business Analytics with Cluster in Accounting
  Brigham Young University - Idaho
 •	Vice President of the Women in Business Society | September 2021 – December 2021
@@ -20,7 +20,7 @@ Rexburg, ID
 Est. Graduation Apr. 2023
  
 
-EXPERIENCE
+## EXPERIENCE
 Office Admin                                                                                                                                                                  February 2018 - Present
 911 Driving School of Graham and Puyallup                                                                                                                                Puyallup, WA
 •	Called students to collect overdue payments of $50 or more
