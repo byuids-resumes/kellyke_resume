@@ -29,7 +29,7 @@ Est. Graduation Apr. 2023
 -	Relevant course work: Business Statistics, Data Science Programming, Financial Accounting, Econ Principles and Problems Macro/Micro, Managerial Accounting, Readings in Hispanic Literature 202, and Spreadsheet Analysis for Business 
 
 ## EXPERIENCE
-###### Office Admin
+Office Admin
 911 Driving School of Graham and Puyallup
 <p align="right"> February 2018 - Present </p>
 <p align="right"> Puyallup, WA </p>
@@ -40,7 +40,7 @@ Est. Graduation Apr. 2023
 -	Established a welcoming office environment by cleaning bathrooms and classrooms in a one-day period
 
 
-###### Full-Time Volunteer Representative
+Full-Time Volunteer Representative
 The Church of Jesus Christ of Latter-day Saints
 
 <p align= "right"> October 2012 - Present
@@ -54,7 +54,7 @@ Puyallup, WA
 
 
 
-###### Heber J. Grant Mentor
+Heber J. Grant Mentor
 Brigham Young University - Idaho
 <p align= "right">
 September 2020 – April 2021
