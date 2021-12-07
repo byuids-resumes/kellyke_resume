@@ -26,11 +26,6 @@ Rexburg, ID Est. Graduation Apr. 2023
 -	3.9/4.0 GPA
 -	Relevant course work: Business Statistics, Data Science Programming, Financial Accounting, Econ Principles and Problems Macro/Micro, Managerial Accounting, Readings in Hispanic Literature 202, and Spreadsheet Analysis for Business 
 
-
-Rexburg, ID
-Est. Graduation Apr. 2023
- 
-
 ## EXPERIENCE
 Office Admin                                                                                                                                                                  February 2018 - Present
 911 Driving School of Graham and Puyallup                                                                                                                                Puyallup, WA
