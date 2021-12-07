@@ -17,7 +17,6 @@ _Brigham Young University - Idaho_
 
 <p align="right">
 Rexburg, ID
-</p>
 <p align="right">
 Est. Graduation Apr. 2023
 </p>
