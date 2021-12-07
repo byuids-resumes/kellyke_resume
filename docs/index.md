@@ -3,11 +3,12 @@ layout: cv
 title: Karissa Kelly's Resume
 ---
 <p align="center">
- Karissa E. Kelly
+ <font size="9"> Karissa E. Kelly
+ </font>
 </p>
 
 <p align="center">
-kek17411@gmail.com - https://www.linkedin.com/in/karissa-e-kelly - 253.720.1267
+kek17411@gmail.com • https://www.linkedin.com/in/karissa-e-kelly • 253.720.1267
 </p>
  
 ## EDUCATION
