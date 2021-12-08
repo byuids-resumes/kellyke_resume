@@ -42,7 +42,7 @@ Office Admin
 
 -	Developed and implemented a process on obtaining a student’s signed “Policies & Procedures”
 
--	Established a welcoming office environment by cleaning bathrooms and classrooms in a one-day period  
+-	Established a welcoming office environment by cleaning bathrooms and classrooms in a one-day period &nbsp;
 
 
 Full-Time Volunteer Representative
@@ -55,7 +55,7 @@ Puyallup, WA
 
 -	Contributed 100 and more hygiene packs for other countries in an afternoon
 -	Organized 30 and more youth into various groups for service activities
--	Produced 20 food packages for regional food bank with other young women  
+-	Produced 20 food packages for regional food bank with other young women &nbsp;
 
 
 
