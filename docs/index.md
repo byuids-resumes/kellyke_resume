@@ -30,7 +30,7 @@ Est. Graduation Apr. 2023
 
 ## EXPERIENCE
 Office Admin
-911 Driving School of Graham and Puyallup
+_911 Driving School of Graham and Puyallup_
 <p align="right"> February 2018 - Present </p>
 <p align="right"> Puyallup, WA </p>
 
@@ -42,11 +42,11 @@ Office Admin
 
 -	Developed and implemented a process on obtaining a student’s signed “Policies & Procedures”
 
--	Established a welcoming office environment by cleaning bathrooms and classrooms in a one-day period &nbsp;
-
+-	Established a welcoming office environment by cleaning bathrooms and classrooms in a one-day period 
+&nbsp;
 
 Full-Time Volunteer Representative
-The Church of Jesus Christ of Latter-day Saints
+_The Church of Jesus Christ of Latter-day Saints_
 
 <p align= "right"> October 2012 - Present
 <p align= "right">
@@ -55,13 +55,11 @@ Puyallup, WA
 
 -	Contributed 100 and more hygiene packs for other countries in an afternoon
 -	Organized 30 and more youth into various groups for service activities
--	Produced 20 food packages for regional food bank with other young women &nbsp;
-
-
-
+-	Produced 20 food packages for regional food bank with other young women
+&nbsp;
 
 Heber J. Grant Mentor
-Brigham Young University - Idaho
+_Brigham Young University - Idaho_
 <p align= "right">
 September 2020 – April 2021
 <p align= "right">
